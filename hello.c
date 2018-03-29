@@ -18,7 +18,7 @@ int min_element(int *arr, int size)
 
 int main()
 {
-    int arr[] = {3, 1, 4, 1};
+    int arr[] = {3, 1, 4, 1,9 };
 
     const int min = min_element(arr, N_ELEMENTS(arr));
 
